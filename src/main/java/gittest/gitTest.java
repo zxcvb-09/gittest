@@ -9,5 +9,7 @@ public class gitTest {
         System.out.println("Hot 2");
         System.out.println("Push");
         System.out.println("Push 2");
+        System.out.println("Pull GitHub");
+        
     }
 }
