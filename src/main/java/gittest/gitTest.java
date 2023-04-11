@@ -5,5 +5,6 @@ public class gitTest {
         System.out.println("Mast");
         System.out.println("Mast 2");
         System.out.println("HOt ");
+        System.out.println("合并冲突测试");
     }
 }
