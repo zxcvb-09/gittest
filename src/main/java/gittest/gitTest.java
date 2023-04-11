@@ -8,5 +8,6 @@ public class gitTest {
         System.out.println("合并冲突测试");
         System.out.println("Hot 2");
         System.out.println("Push");
+        System.out.println("Push 2");
     }
 }
